@@ -19,7 +19,7 @@ A **simple, efficient, and practical resource management system** that allows us
 
 ## 📁 Project Structure
 
-
+---
 CRAS-System/
 │
 ├── back_end.c
@@ -35,7 +35,7 @@ CRAS-System/
 ├── inuse.dat
 │
 └── Resource_Report.pdf
-
+---
 
 
 
