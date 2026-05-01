@@ -1,5 +1,4 @@
 # 🖥️ Campus Resource Allocation System (CRAS)
-
 ![C](https://img.shields.io/badge/C-Backend-blue)
 ![Python](https://img.shields.io/badge/Python-Frontend-green)
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-orange)
@@ -7,7 +6,6 @@
 
 A **simple, efficient, and practical resource management system** that allows users to **add, allocate, release, and manage resources** using a combination of **C backend and Python GUI frontend**.
 
----
 
 ## ✨ Project Highlights
 
@@ -18,11 +16,10 @@ A **simple, efficient, and practical resource management system** that allows us
 - 📂 File-based database system (.dat files)
 - 🚀 Perfect for college projects & system design understanding
 
----
 
 ## 📁 Project Structure
 
-```
+
 CRAS-System/
 │
 ├── back_end.c
@@ -38,9 +35,9 @@ CRAS-System/
 ├── inuse.dat
 │
 └── Resource_Report.pdf
-```
 
----
+
+
 
 ## 🔧 Core Features
 
@@ -50,7 +47,6 @@ CRAS-System/
 - View all resources  
 - Delete resources (only if not allocated)  
 
----
 
 ### 🔹 Allocation System
 
@@ -58,7 +54,6 @@ CRAS-System/
 - Release resources
 - Prevent double allocation
 
----
 
 ### 🔹 File Handling System
 
@@ -66,7 +61,6 @@ CRAS-System/
   - source.dat → stores all resources
   - inuse.dat → stores allocated resources  
 
----
 
 ### 🔹 GUI Interface (Python)
 
@@ -74,14 +68,14 @@ CRAS-System/
 - Dropdown-based selection for available resources
 - Popup-based feedback system
 
----
+
 
 ### 🔹 PDF Report Generation
 
 - Converts resource table into PDF format
 - Uses reportlab library
 
----
+
 
 ## ▶️ How to Run
 
@@ -100,7 +94,7 @@ gcc back_end.c -o back_end.exe
 python fornt_end.py
 ```
 
----
+
 
 ## 🧠 Working Flow
 
@@ -110,7 +104,7 @@ python fornt_end.py
 4. Output saved in output.txt  
 5. GUI reads and displays result  
 
----
+
 
 ## 🎯 Learning Outcomes
 
@@ -120,7 +114,7 @@ python fornt_end.py
 - Backend–Frontend integration  
 - Real-world system design thinking  
 
----
+
 
 ## 🚀 Use Cases
 
@@ -128,7 +122,7 @@ python fornt_end.py
 - Resume Project  
 - Learning File-Based DB Systems  
 
----
+
 
 ## 👨‍💻 Authors
 
@@ -136,6 +130,6 @@ python fornt_end.py
 - Sarthak Singh  
 - Krishna Uniyal  
 
----
+
 
 ⭐ Star the repo if you like it!
